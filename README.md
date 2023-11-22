@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kashinoga
-- 👀 I’m interested in ... games, movies, and worldbuilding!
-- 🌱 I’m currently learning ... game design, Svelte, and worldbuilding!
-- 💞️ I’m looking to collaborate on ... worldbuilding!
-- 📫 How to reach me ... with an exclamation mark!
+- 👀 I’m interested in games, movies, and worldbuilding
+- 🌱 I’m currently learning emotional intelligence, game development, and worldbuilding
+- 💞️ I’m looking to collaborate on game development
+- 📫 How to reach me: @Kashinoga
 
 <!---
 Kashinoga/Kashinoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

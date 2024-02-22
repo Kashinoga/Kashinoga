@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kashinoga
 - 👀 I’m interested in games, movies, and worldbuilding
-- 🌱 I’m currently learning emotional intelligence, game development, and worldbuilding
-- 💞️ I’m looking to collaborate on game development
+- 🌱 I’m currently learning emotional intelligence, writing, and worldbuilding
+- 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me: @Kashinoga
 
 <!---
